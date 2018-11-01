@@ -6,3 +6,20 @@ Objective of the App:
 Tools:
   - Front-end - React 
   - Back-end - Rails API
+
+App Features (copied from Jeremy's email):
+
+
+    Setup instructions and notes on how you built the application.
+    Use of a front end framework, ideally React.
+    Modern API, we commonly use Node in-house.
+    Ability to display employees by department, title, location, etc.
+    Use of a client-side router.
+    Creative use of animation.
+    Paginated lists.
+    Forms for creating, updating, and deleting employees.
+    Source data from a third party person API, such as https://randomuser.me or http://uifaces.com.
+    Ability to search for employees.
+    Testing.
+
+
