@@ -23,3 +23,6 @@ App Features (copied from Jeremy's email):
     Testing.
 
 
+To Do List and Questions:
+  - Update README.md with instructions to install the app
+  - 
